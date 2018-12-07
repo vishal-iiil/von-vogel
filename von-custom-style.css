@@ -126,8 +126,7 @@
 #contentBox .design-watch{padding:0 80px}
 }
 
-/*#contentBox{max-width:80%;margin:0 auto;}*/
-#contentBox{margin:0 auto;}
+#contentBox{max-width:80%;margin:0 auto;}
 #contentBox a{background-color:transparent;}
 #contentBox a:active,#contentBox a:hover{outline:0;}
 #contentBox b{font-weight:700;}
